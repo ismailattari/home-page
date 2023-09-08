@@ -1,0 +1,120 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.container-fulte
+{
+    /* border: 3px solid black; */
+}
+
+.row
+{
+    /* border: 2px solid black; */
+}
+
+.col
+
+{
+    /* background-color: aqua; */
+    /* border: 3px solid blue; */
+    
+}
+
+.col ul
+{
+    list-style: none;
+    display: flex;
+    
+}
+
+.col ul li
+{
+    margin-left: 15px;
+    font-size: 18px;
+    font-weight: 700;
+    padding-top: 18px;
+}
+
+#nput
+{
+    width: 140px;
+    height: 50px;
+    border: 2px solid black;
+    font-size:20px;
+    font-weight: 400;
+}
+#butt
+{
+    align-items: center;
+}
+
+
+#colLG
+
+{
+    background-color: green;
+}
+
+#colLG3
+
+{
+    background-color: blueviolet;
+}
+#colLG1
+{
+    background-color: gold;
+}
+
+#colLG2
+
+{
+    background-color: gray;
+}
+
+#colLG4
+{
+    background-color: greenyellow;
+}
+
+.imgph img
+{
+    width: 100%;
+    height: 700px;
+    object-fit:cover;
+}
+.imgph
+{
+position: relative;
+}
+
+.lorem
+{
+    position: absolute;
+    top: 250px;
+    left: 250px;
+}
+
+.lorem h1
+{
+    letter-spacing: 25px;
+    color: white;
+}
+
+.lorem p
+{
+    color: white;
+    margin-left: 35px;
+}
+
+.lorem input
+{
+    margin-left: 350px;
+    margin-top: 25px;
+    background: none;
+    border: 2px solid white;
+    color: white;
+    width: 150px;
+    height: 50px;
+}
